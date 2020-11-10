@@ -1,7 +1,7 @@
 ### Hi there, I'm Masoud 👋
 
 - 🔭  &nbsp;I’m currently working on some Personal Projects
-- 🌱  &nbsp;I’m currently diving more into javascript 
+- 🌱  &nbsp;I’m currently diving more into React JS 
 - 💬  &nbsp;Ask me about Anything!
 - 📫  &nbsp;Reach me <a href="https://www.linkedin.com/in/masoud-soleymani/" alt="Linkedin target=”_blank”">On Linkedin</a>
 - ⚡  &nbsp;Fun fact, Creativity is just connecting things!
