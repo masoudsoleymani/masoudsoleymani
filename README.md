@@ -4,7 +4,7 @@
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/MasoudSolm/)](https://twitter.com/MasoudSolm/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:msoolymani@gmail.com)](mailto:msoolymani@gmail.com)
 
-- 👨‍💻 Frontend Developer at [**tb.lx by Daimler Trucks & Buses**](https://tblx.io) 
+- 👨‍💻 Frontend Developer Intern at [**tb.lx by Daimler Trucks & Buses**](https://tblx.io) 
 - 🌱 Focus on ReactJs, NodeJs, JavaScript, TypeScript
 - ⚡  &nbsp;Fun fact, Creativity is just connecting things!
 
