@@ -5,7 +5,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:msoolymani@gmail.com)](mailto:msoolymani@gmail.com)
 
 - 👨‍💻 Frontend Engineer at [**tb.lx by Daimler Trucks & Buses**](https://tblx.io) 
-- 🌱 Focus on JS, TS, Node.js, React, Next.js Redux, GraphQL, RESTful APIs, OAuth
+- 🌱 Focus on JS, TS, Node.js, React, Next.js, Redux, GraphQL, RESTful APIs, OAuth
 - ⚡  &nbsp;Fun fact, Creativity is just connecting things!
 
 ![JavaScript](https://img.shields.io/badge/-javascript-black?style=flat-square&logo=javascript)
