@@ -3,9 +3,9 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/masoud-soleymani/)](https://www.linkedin.com/in/masoud-soleymani/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:msoolymani@gmail.com)](mailto:msoolymani@gmail.com)
 
-- 👨‍💻 Frontend Engineer at [**tb.lx by Daimler Trucks & Buses**](https://tblx.io) 
-- 🌱 Focus on JS, TS, Node.js, React, Next.js, GraphQL, RESTful APIs, OAuth
-- ⚡  &nbsp;Fun fact, Creativity is just connecting things!
+- 👨‍💻 Frontend Engineer
+- 🤖 Focus on JS, TS, Node.js, React, Next.js, GraphQL, RESTful APIs, Auth.js
+- ⚡ Fun fact, Creativity is just connecting things!
 
 ![JavaScript](https://img.shields.io/badge/-javascript-black?style=flat-square&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
