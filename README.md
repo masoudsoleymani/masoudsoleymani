@@ -4,7 +4,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:msoolymani@gmail.com)](mailto:msoolymani@gmail.com)
 
 - 👨‍💻 Frontend Engineer
-- 🤖 Focus on JS, TS, Node.js, React, Next.js, GraphQL, RESTful APIs, Auth.js
+- 🤖 Focus on JS, TS, Node.js, React, Next.js, GraphQL, RESTful APIs, Auth.js, Playwright
 - ⚡ Fun fact, Creativity is just connecting things!
 
 ![JavaScript](https://img.shields.io/badge/-javascript-black?style=flat-square&logo=javascript)
@@ -18,6 +18,7 @@
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![Playwright](https://img.shields.io/badge/-Playwright-black?style=flat-square&logo=playwright)
 
  <details>
  <summary>Gihub Stats</summary>
