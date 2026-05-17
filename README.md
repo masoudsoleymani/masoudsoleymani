@@ -2,7 +2,7 @@
 
 Software Engineer based in Lisbon 🇵🇹 with 5+ years of experience building scalable, production-grade web applications.
 
-I specialize in **JavaScript/TypeScript ecosystem**, designing ** building robust end-to-end solutions that combine high-performance frontends with secure backend.
+I specialize in the JavaScript and React ecosystem, focusing on high-performance frontends and integrating secure, well-structured backend APIs.
 
 I care about system architecture, performance, and developer experience — focusing on building maintainable software that solves real-world problems.
 
