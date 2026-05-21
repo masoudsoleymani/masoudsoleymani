@@ -1,17 +1,15 @@
 # Hey, I'm Masoud 👋
 
-Software Engineer based in Lisbon 🇵🇹 with 5+ years of experience building scalable, production-grade web applications.
+Software Engineer focused on front-end development, building scalable, production-grade web applications.
 
-I specialize in the JavaScript and React ecosystem, focusing on high-performance frontends and integrating secure, well-structured backend APIs.
-
-I care about system architecture, performance, and developer experience — focusing on building maintainable software that solves real-world problems.
+I care about system architecture, performance, and developer experience, focusing on building maintainable software that solves real-world problems.
 
 ---
 
 ## What I do
 
 - 🏗 Building end-to-end features from UI to database.
-- ⚛️ Develop large-scale apps with React, Next.js, TypeScript
+- ⚛️ Develop large-scale applications with React, Next.js, TypeScript
 - 🔌 Design and build BFF APIs (GraphQL, REST)
 - 🔐 Implement secure authentication (OAuth / OIDC / NextAuth)
 - 🧩 Create reusable component libraries and design systems
