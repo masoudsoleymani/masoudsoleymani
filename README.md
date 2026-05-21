@@ -26,6 +26,7 @@ I care about system architecture, performance, and developer experience, focusin
 ### Frontend
 ![React](https://img.shields.io/badge/React-black?style=flat-square&logo=react)
 ![Next.js](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=nextdotjs)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-black?style=flat-square&logo=tailwindcss)
 ![Styled-components](https://img.shields.io/badge/Styled%20Components-black?style=flat-square&logo=styled-components)
 ![Emotion](https://img.shields.io/badge/Emotion-black?style=flat-square&logo=emotion)
 ![Material UI](https://img.shields.io/badge/Material_UI-black?style=flat-square&logo=mui)
