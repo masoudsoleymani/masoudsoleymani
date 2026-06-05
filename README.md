@@ -8,7 +8,6 @@ I care about system architecture, performance, and developer experience, focusin
 
 ## What I do
 
-- 🏗 Building end-to-end features from UI to database.
 - ⚛️ Develop large-scale applications with React, Next.js, TypeScript
 - 🔌 Design and build BFF APIs (GraphQL, REST)
 - 🔐 Implement secure authentication (OAuth / OIDC / NextAuth)
